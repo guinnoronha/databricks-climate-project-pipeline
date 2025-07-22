@@ -37,12 +37,12 @@ Os dados climáticos são coletados em tempo real (ou próximo a tempo real) da 
 
 ## 📁 Estrutura do Repositório
 
-databricks-climate-project-pipeline/
-├── notebooks/
-│   ├── 01_Bronze_Layer.ipynb              # Coleta e ingestão de dados brutos na camada Bronze.
-│   ├── 02_Silver_Layer.ipynb              # Limpeza, padronização e transformação de dados para a camada Silver.
-│   ├── 03_Gold_Layer.ipynb                # Agregação e otimização de dados para a camada Gold.
-│   └── 04_Descriptive_Analysis.ipynb      # Realiza análises descritivas e visualizações dos dados.
+databricks-climate-project-pipeline/ <br>
+├── notebooks/<br>
+│   ├── 01_Bronze_Layer.ipynb              # Coleta e ingestão de dados brutos na camada Bronze.<br>
+│   ├── 02_Silver_Layer.ipynb              # Limpeza, padronização e transformação de dados para a camada Silver.<br>
+│   ├── 03_Gold_Layer.ipynb                # Agregação e otimização de dados para a camada Gold.<br>
+│   └── 04_Descriptive_Analysis.ipynb      # Realiza análises descritivas e visualizações dos dados.<br>
 └── README.md                              # Este arquivo.
 
 ---
